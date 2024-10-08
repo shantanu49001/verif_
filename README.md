@@ -47,10 +47,12 @@ The methodology introduces a **backward-induction and sequential verification ap
 5. **Overall System Verification**: The minimum step size across components is used to ensure system-wide consistency.
 
 ### 🖼️ **Proposed Methodology**:
-![Proposed Methodology Diagram](https://[Image URL])  
+![Proposed Methodology Diagram](https://github.com/shantanu49001/verif_/blob/main/a1.png)  
 *Caption: Overview of the sequential distributed verification process using backward induction.*
 
 ### 📊 **Example Components Verified**:
+![Example CPS Structure](https://github.com/shantanu49001/verif_/blob/main/a2.png)  
+![Example Cyber-Physical System](https://github.com/shantanu49001/verif_/blob/main/a3.png)  
 
 - **Custom Neural Network**: Processes weather stimuli to predict temperature changes.
 - **Weather Predictor**: Uses state-flow logic to forecast temperature variations.
@@ -58,7 +60,7 @@ The methodology introduces a **backward-induction and sequential verification ap
 - **Max/Min Velocity Modulation**: Ensures velocity stays within safe operational limits based on fuel availability.
 
 ### 🖼️ **Example Model Verification**:
-![Model Verification](https://[Image URL])  
+![Model Verification](![Proposed Methodology Diagram](https://github.com/shantanu49001/verif_/blob/main/a4.png)    
 *Caption: The structure and components of the neural CPS model used for verification.*
 
 ---
